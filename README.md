@@ -1,7 +1,7 @@
 
 # Khmer Toolkit — All-in-One Khmer TTS & Audio Suite
 
-**Free AI toolkit for Khmer text-to-speech and audio processing**
+**Free AI toolkit for Khmer text-to-speech and audio processing target end user for no setup Local sorfware**
 
 ✨ Co-authored with AI agents Claude Opus & Gemini 3 Pro ✨
 
@@ -71,7 +71,6 @@ Provided **“as-is”** without warranty. Authors are not liable for damages or
 > [!IMPORTANT]
 > **Selling this software or offering it as a paid service is prohibited.**
 
-Licensed under **Apache 2.0 + Commons Clause**
 
 | ✅ Allowed               | ❌ Not Allowed             |
 | ----------------------- | ------------------------- |
@@ -84,4 +83,64 @@ Licensed under **Apache 2.0 + Commons Clause**
 
 ---
 
-If you want, I can make it even tighter (like a GitHub README “hero section” version) or rewrite it to sound more professional/enterprise-grade.
+##Third-Party Licenses
+
+Selling the software is prohibited — see [LICENSE](LICENSE) for details.
+
+This project depends on the following open-source packages. Their licenses
+are listed below for attribution and compliance.
+
+---
+
+## edge-tts
+
+- **License:** GNU Lesser General Public License v3.0 (LGPLv3)
+- **Author:** rany2
+- **Source:** https://github.com/rany2/edge-tts
+- **PyPI:** https://pypi.org/project/edge-tts/
+
+This library is used as a dynamically-linked dependency (imported at runtime).
+Users may substitute it with any compatible alternative. The full LGPLv3 text
+is available at: https://www.gnu.org/licenses/lgpl-3.0.html
+
+---
+
+## openai-whisper
+
+- **License:** MIT License
+- **Source:** https://github.com/openai/whisper
+
+## voxcpm
+
+- **License:** Apache License 2.0
+- **Source:** https://huggingface.co/myshell-ai/OpenVoiceV2
+
+## deep-translator
+
+- **License:** MIT License
+- **Source:** https://github.com/nidhaloff/deep-translator
+
+## FastAPI
+
+- **License:** MIT License
+- **Source:** https://github.com/tiangolo/fastapi
+
+## Tauri
+
+- **License:** MIT License / Apache License 2.0
+- **Source:** https://github.com/tauri-apps/tauri
+
+## khmernormalizer
+
+- **License:** MIT License
+- **Author:** Seanghay Yath
+- **Source:** https://github.com/seanghay/khmernormalizer
+
+## khmercut
+
+- **License:** MIT License
+- **Author:** Seanghay Yath
+- **Source:** https://github.com/seanghay/khmercut-rs
+
+
+
