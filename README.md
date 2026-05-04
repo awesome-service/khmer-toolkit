@@ -133,13 +133,11 @@ is available at: https://www.gnu.org/licenses/lgpl-3.0.html
 ## khmernormalizer
 
 - **License:** MIT License
-- **Author:** Seanghay Yath
 - **Source:** https://github.com/seanghay/khmernormalizer
 
 ## khmercut
 
 - **License:** MIT License
-- **Author:** Seanghay Yath
 - **Source:** https://github.com/seanghay/khmercut-rs
 
 
