@@ -1,5 +1,3 @@
-Here’s a more compact, cleaner, and slightly improved version with clearer wording and stronger structure:
-
 ---
 
 # Khmer Toolkit — All-in-One Khmer TTS & Audio Suite
