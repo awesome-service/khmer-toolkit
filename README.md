@@ -1,7 +1,7 @@
 
 # Khmer Toolkit — All-in-One Khmer TTS & Audio Suite
 
-**Free AI toolkit for Khmer text-to-speech and audio processing target end user for no setup Local sorfware**
+**Free AI toolkit for Khmer text-to-speech and audio processing target end user who don't know how to setup local sorfware (GPU relate)**
 
 ✨ Co-authored with AI agents Claude Opus & Gemini 3 Pro ✨
 
